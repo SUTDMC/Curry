@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:lightcurry"
+            }
+        }
+    },
+    "rewards": {
+        "function": "crafting:crafted_lightcurry"
+    }
+}
